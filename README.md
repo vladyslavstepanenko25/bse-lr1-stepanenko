@@ -33,7 +33,7 @@ git clone https://github.com/vladyslavstepanenko25/bse-lr1-stepanenko.git
 
 cd bse-lr1-stepanenko
 
-C# program.slnx
+C# program.cs
 
 ```
 
