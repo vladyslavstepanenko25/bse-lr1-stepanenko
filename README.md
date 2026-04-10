@@ -1,1 +1,0 @@
-# bse-lr1-stepanenko
